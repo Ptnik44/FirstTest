@@ -13,7 +13,7 @@ Name control
     Page Should Contain  Car Configurator
 
 *** Test Cases ***
-Car Config Title control
+Car Config title control
     Open browser pls
     Name control
 
